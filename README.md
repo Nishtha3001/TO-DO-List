@@ -1,2 +1,1 @@
-# TO-DO-List
-My todo list
+# TO-DO-list
